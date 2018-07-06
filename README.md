@@ -1,2 +1,3 @@
-# C-Cpp-Repository
-C&amp;C++
+# Introduction
+
+*In this repository, you can see projects of C & C++.*
